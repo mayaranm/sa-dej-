@@ -1,0 +1,22 @@
+body {
+    background-color: #F6F5F5;
+    color: #071952;
+  }
+  .login{
+    width: 30rem;
+    border: 0.5rem solid #37B7C3;
+    padding: 3rem;
+    margin: 10rem;
+    border-radius: 1rem;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-around;
+    align-items: center;
+  }
+  /* color cinza claro : #F6F5F5
+  color azul claro: #37B7C3
+  Color azul médio: #1687A7 #088395
+  Color azul escuro: #071952
+  */
